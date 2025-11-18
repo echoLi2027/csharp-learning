@@ -1,0 +1,14 @@
+/Users/zhouziyan/c#Project/consoleProject01/bin/Debug/net10.0/consoleProject01
+/Users/zhouziyan/c#Project/consoleProject01/bin/Debug/net10.0/consoleProject01.deps.json
+/Users/zhouziyan/c#Project/consoleProject01/bin/Debug/net10.0/consoleProject01.runtimeconfig.json
+/Users/zhouziyan/c#Project/consoleProject01/bin/Debug/net10.0/consoleProject01.dll
+/Users/zhouziyan/c#Project/consoleProject01/bin/Debug/net10.0/consoleProject01.pdb
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.AssemblyInfoInputs.cache
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.AssemblyInfo.cs
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.csproj.CoreCompileInputs.cache
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.dll
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/refint/consoleProject01.dll
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.pdb
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/consoleProject01.genruntimeconfig.cache
+/Users/zhouziyan/c#Project/consoleProject01/obj/Debug/net10.0/ref/consoleProject01.dll
